@@ -1,5 +1,5 @@
 # Sompong100
-Invitaion link:
+Sompong100 invitation link:
 https://discord.com/oauth2/authorize?client_id=898828718032695296&permissions=412317317120&integration_type=0&scope=bot
 
 Install:
