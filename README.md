@@ -1,11 +1,12 @@
 # Sompong100
-Sompong100 invitation link:
-https://discord.com/oauth2/authorize?client_id=898828718032695296&permissions=412317317120&integration_type=0&scope=bot
 
-Install:
-pip install -r requirements.txt.
+วิธีสร้าง Discord bot
+```https://www.freecodecamp.org/news/create-a-discord-bot-with-python/```
 
-คำสั่ง run:
-py main.py
+Install requirements
+```pip install -r requirements.txt.```
 
-เมื่อบอทพร้อมทำงาน จะขึ้น Bot Started! ใน terminal
+คำสั่ง run
+```py main.py```
+
+- เมื่อบอทพร้อมทำงาน จะขึ้น ```Bot Started!``` ใน terminal
