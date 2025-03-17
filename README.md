@@ -5,11 +5,13 @@ https://www.freecodecamp.org/news/create-a-discord-bot-with-python/
 
 Install requirements
 ```python
-pip install -r requirements.txt.
+pip install -r requirements.txt
 ```
 
 คำสั่ง run
-```py main.py```
+```python
+py main.py
+```
 
 - เมื่อบอทพร้อมทำงาน จะขึ้น ```Bot Started!``` ใน terminal
 
