@@ -4,7 +4,8 @@
 https://www.freecodecamp.org/news/create-a-discord-bot-with-python/
 
 Install requirements
-```pip install -r requirements.txt.
+```python
+pip install -r requirements.txt.
 ```
 
 คำสั่ง run
