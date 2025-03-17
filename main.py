@@ -12,7 +12,7 @@ import os
 import random
 
 
-os.chdir("D:\\Oom\\หางาน\\code\\Project-Sompong100")
+os.chdir("PROJECT_PATH")
 
 intents = discord.Intents.default()
 intents.message_content = True
@@ -515,4 +515,4 @@ async def update_bank(user, change=0, mode="wallet"): #อัพเดตยอ�
     bal = [users[str(user.id)]["wallet"], users[str(user.id)]["bank"]]
     return bal
 
-client.run(DISCORD_BOT_TOKEN)
+client.run("DISCORD_BOT_TOKEN")
