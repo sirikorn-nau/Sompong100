@@ -58,4 +58,5 @@ Run command
 npx expo start --reset-cache
 ```
 
-Figma 👨‍💻 : https://www.figma.com/file/6Nunl3MsBoMM49Fzevu4RF/UI-design?type=design&node-id=0%3A1&mode=design&t=4olHyy86VGdKRKqC-1
+## UX/UI Design
+![Figma](https://www.figma.com/file/6Nunl3MsBoMM49Fzevu4RF/UI-design?type=design&node-id=0%3A1&mode=design&t=4olHyy86VGdKRKqC-1)
